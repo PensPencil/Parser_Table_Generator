@@ -1,0 +1,2 @@
+tabulate ==0.8.3
+python ==3.9.0
